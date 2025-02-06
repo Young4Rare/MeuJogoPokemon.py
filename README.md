@@ -41,3 +41,5 @@ Aqui estão algumas melhorias planejadas para versões futuras do jogo:
 ✅ Adição de um sistema de evolução para os Pokémon.
 
 ✅ Melhorias na interface gráfica para torná-la mais dinâmica e interativa.
+
+YoungRareOG
